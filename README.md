@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nathanrockell5
+- 👀 I’m interested in Rust, Web Development, Data Science
+- 📫 LinkedIn: https://www.linkedin.com/in/nathan-rockell/
