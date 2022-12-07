@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nathanrockell5
-- 👀 I’m interested in Rust, Java, Web Development,iOS App Development. Always seeking solutions to benefit everyday activities, effectively and efficiently.
+- 👀 I’m interested in Full stack application and web development. Always seeking solutions to benefit everyday activities, effectively and efficiently.
 - 📫 LinkedIn: https://www.linkedin.com/in/nathan-rockell/
